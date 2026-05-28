@@ -91,17 +91,17 @@ export default function ExperienceTimeline() {
                             </span>
                           )}
                         </div>
-                        <div className="flex items-center gap-3 text-sm text-slate-400">
+                        <div className="flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-3 text-sm text-slate-400">
                           <span className="flex items-center gap-1">
                             <Building2 className="w-3.5 h-3.5" />
                             <span className={`font-medium ${colors.text}`}>{job.company}</span>
                           </span>
-                          <span className="text-slate-600">·</span>
+                          <span className="hidden sm:inline text-slate-600">·</span>
                           <span className="flex items-center gap-1">
                             <Calendar className="w-3.5 h-3.5" />
                             {job.duration}
                           </span>
-                          <span className="text-slate-600">·</span>
+                          <span className="hidden sm:inline text-slate-600">·</span>
                           <span className="text-slate-500 text-xs">{job.type}</span>
                         </div>
                       </div>
