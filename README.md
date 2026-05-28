@@ -5,8 +5,11 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-FF0055?style=flat-square&logo=framer&logoColor=white)](https://www.framer.com/motion)
+[![Live Portfolio](https://img.shields.io/badge/Live-baljinder--singh.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://baljinder-singh.netlify.app/)
 
 > **"Developer Cockpit"** — A premium, interactive portfolio built to reflect the kind of frontend systems I actually build at work.
+>
+> 🌐 **[View Live Portfolio →](https://baljinder-singh.netlify.app/)**
 
 ---
 
